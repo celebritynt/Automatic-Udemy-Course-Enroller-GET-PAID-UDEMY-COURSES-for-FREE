@@ -21,6 +21,8 @@ The code scrapes course links and coupons from:
  - [coursevania.com](https://coursevania.com)
  - [freebiesglobal.com](https://freebiesglobal.com)
  - [idownloadcoupon.com](https://idownloadcoupon.com) -> _New_
+ - [freewebcart.com](https://www.freewebcart.com/) -> _New_
+
 
 
 In case of any bugs or issues, please open an issue in github. Also, don't forget to **Fork & Star the repository if you like it!**
